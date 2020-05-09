@@ -1,5 +1,7 @@
 package api
 
+import "github.com/tsandall/test-repo-transfer/api2"
+
 func Foo() int {
-	return 9
+	return api2.Bar()
 }
