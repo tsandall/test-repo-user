@@ -1,5 +1,5 @@
 package api
 
 func Foo() int {
-	return 7
+	return 8
 }
